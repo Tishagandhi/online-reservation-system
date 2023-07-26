@@ -44,7 +44,7 @@ Spring Framework: Provides a robust and flexible platform for building Java appl
 # Installation
 To run the Online Reservation System locally, follow these steps:
 
-# Clone the repository:https://github.com/Tishagandhi/online-reservation-system
+### Clone the repository:https://github.com/Tishagandhi/online-reservation-system
 * Navigate to the project directory: cd online-reservation-system
 * Create a MySQL database and update the database configuration in application.properties.
 * Build the project: ./mvnw clean package
