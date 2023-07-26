@@ -16,7 +16,7 @@ Usage
 
 Contributing
 
-License
+
 # Introduction
 The Online Reservation System is a Java-based application that allows users to make reservations for various services online. This system aims to simplify the reservation process, making it convenient for customers to book appointments, tickets, or services from the comfort of their homes. The system can be customized and extended to suit the needs of different businesses, such as hotels, restaurants, theaters, and more.
 
